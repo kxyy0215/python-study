@@ -57,3 +57,4 @@ while num > 0:
             print("猜小了！")
     num -=1
 print("游戏结束！")
+print("hello world")
