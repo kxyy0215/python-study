@@ -41,7 +41,7 @@ while num > 0:
 
 import random
 print(random.randint(1,10))
-"""
+
 import random
 num = 3
 answer = random.randint(1,10)
@@ -58,3 +58,12 @@ while num > 0:
     num -=1
 print("游戏结束！")
 print("hello world")
+
+abs() 取绝对值
+
+/ ("取整数部分") // ("取比答案小的整数")
+
+pow(x,y) 表示x的y次方
+pow(x,y,z) 表示x的y次方再跟z取余
+
+"""
